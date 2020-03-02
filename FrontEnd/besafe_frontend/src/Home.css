@@ -1,0 +1,65 @@
+h1 {
+    font-family: 'Arial Rounded MT Bold', Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    color: #00526C;
+}
+
+h3 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.75rem;
+    color: #3B455A;
+}
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.block {
+    height: 100vh;
+    width: 100vw;
+}
+
+.navbar {
+    background-color: rgb(49, 29, 38);
+    color: rgb(255, 255, 255);
+}
+
+.nav-logo {
+    height: 35px; 
+}
+
+.home {
+    background-color: white;
+}
+
+.about {
+    background-color: #009E9B;
+}
+
+.home-wrapper {
+    display: flex;
+    height: 100vh;
+    align-content: center;
+}
+
+.vertical-center {
+    margin: auto;
+    width: 80vw;
+}
+
+.vertical-center {
+    margin: auto
+}
+
+.icons {
+    margin: 2rem;
+}
+
+.about-icon {
+    width: 10rem;
+    padding: 2rem 2rem 1rem 2rem;
+}
+
+.product {
+    background-color: #00BE7E;
+}
