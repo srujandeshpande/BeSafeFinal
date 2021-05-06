@@ -10,7 +10,7 @@ cryptography==2.7
 cycler==0.10.0
 decorator==4.4.0
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 folium==0.10.0
 gmplot==1.2.0
 idna==2.8
